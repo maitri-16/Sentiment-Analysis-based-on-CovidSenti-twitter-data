@@ -2,6 +2,7 @@
 The problem addressed in this project is automatically classifying tweets into three sentiment categories — positive, neutral, and negative — using Natural Language Processing (NLP) and deep learning.
 
 DATA SOURCE
+
 Dataset Name: COVIDSenti
 Dataset Size: 90,000 labelled tweets
 Classes: Positive (6,280), Negative (16,335), Neutral (67,835)
